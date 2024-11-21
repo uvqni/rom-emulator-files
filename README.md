@@ -1,2 +1,2 @@
-Just a file with roms
+Just sone roms
 mostly gba or n64
